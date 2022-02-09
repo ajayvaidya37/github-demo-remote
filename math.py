@@ -3,7 +3,7 @@ def add(x,y):
     return x+y 
 #Subtract implementation
 def sub(x,y):
-    pass
+    return x-y #from bug456 branch
 #Multiply implementation
 def multiply(x,y):
     pass
